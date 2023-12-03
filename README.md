@@ -28,3 +28,5 @@ Nesse repositório também se encontra um notebook com o gabarito da análise, c
 ---
 
 Esse projeto foi implementado por mim, [Paulo Jennings](https://github.com/PauloSJennings), com a orientação do professor [Tiago Marto](https://github.com/tiagomarto). Valeu, mestre!
+
+Artigo usado como referência: [Breaking Ties in K-NN Classification](https://www.linkedin.com/pulse/breaking-ties-k-nn-classification-nicholas-pylypiw/)
